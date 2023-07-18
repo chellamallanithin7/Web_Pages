@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Engineering College</title>
+    <style>
+<body>{
+ background-image: url('https://emango.s3.amazonaws.com/media/cache/ed/65/ed656e5000495fb9a435a02317fa42ba.jpg');
+}
+
+      /* Styles for the main sections */
+      .section {
+
+        padding: 20px;
+        margin-bottom: 30px;
+        background-color: #f2f2f2;
+        border-radius: 5px;
+      }
+      .section h2 {
+        margin-top: 0;
+        font-size: 32px;
+        text-align: center;
+      }
+      
+      /* Styles for the navigation bar */
+      .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #333;
+        color: #fff;
+        padding: 10px;
+      }
+      .navbar a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0 10px;
+        font-size: 18px;
+      }
+      .navbar a:hover {
+        text-decoration: underline;
+      }
+      
+      /* Styles for the footer */
+      .footer {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+      .footer a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0 10px;
+        font-size: 16px;
+      }
+      .footer a:hover {
+        text-decoration: underline;
+      }
+</body>
+    </style>
+  </head>
+  <body>
+    <!-- Navigation bar -->
+    <div class="navbar">
+      <a href="#">About us</a>
+      <a href="#">Department</a>
+      <a href="#">Faculty</a>
+      <a href="#">Research</a>
+      <a href="#">Placement</a>
+      <a href="#">Contact us</a>
+    </div>
+    
+    <!-- About us section -->
+    <div class="section">
+      <h2>About us</h2>
+      <p>Welcome to Engineering College, where we provide high-quality education in the field of engineering. Our mission is to prepare our students for successful careers in the engineering industry, and we achieve this by offering a wide range of programs and resources to help them reach their goals.</p>
+    </div>
+    
+    <!-- Department section -->
+    <div class="section">
+      <h2>Department</h2>
+      <ul>
+        <li>Computer Science and Engineering</li>
+        <li>Electrical and Electronics Engineering</li>
+        <li>Mechanical Engineering</li>
+        <li>Civil Engineering</li>
+        <li>Chemical Engineering</li>
+      </ul>
+    </div>
+    
+    <!-- Faculty section -->
+    <div class="section">
+      <h2>Faculty</h2>
+      <p>Our faculty members are highly qualified and experienced in their respective fields, and they are dedicated to providing our students with the best possible education. They are passionate about their work and are committed to helping our students achieve their goals.</p>
+    </div>
+    
+    <!-- Research section -->
+    <div class="section">
+      <h2>Research</h2>
+      <p>At Engineering College, we are committed to advancing the field of engineering through research and innovation. Our research programs are designed to address the most pressing challenges facing the industry today, and we work closely with industry partners to ensure that our research is relevant and impactful.</p>
+    </div>
+    
+    <!-- Placement section -->
+    <div class="section">
+      <h2>Placement</h2>
+	<p><strong>Striving for 100% Placements</strong> <br>
+
+This is the leading motto of the Training and Placement Facility of SICET. Equipped with trained and expert personnel the facility started functioning in the academic year 2001. The trainers have more than a decade of experience in understanding the training requirements of undergraduate students and designing program to help students attain career success. Started in response to an emergent need the T&P Facility aims to bridge the gap between the requirements of the corporate houses and the skill sets that the students acquire during college.<br>
+
+The team of Placements cell headed by Mr. R. Venkateswar strives hard and has a decade of extensive experience in placements at different MNC’s.</p>
+<div/>
+<!-- Contact Details section -->
+    <div class="section">
+      <h2>About us</h2>
+      <p> <strong> Address:</strong>  SRI INDU COLLEGE OF ENGINEERING & TECHNOLOGY,<br> Facing Main Road,<br> Ibrahimpatnam Mandal,<br> Rangareddy District,<br> Auditorium - Sri Indu Main Block Rd, Sheriguda,<br> Telangana 501510<br>
+<strong>College Closes:</strong> 5 pm<br>
+<strong>Phone:</strong> 093470 67999 <br>
+<strong>Contact No.:</strong> +91 - 93473 63999
+</p>
+    </div>
+</body>
+</html>
